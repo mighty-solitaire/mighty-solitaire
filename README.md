@@ -1,2 +1,15 @@
-# solitaires
-Free browser-based solitaire platform with classic and popular variations.
+# Solitaires
+
+Solitaires is a free browser-based platform for playing classic solitaire games and popular variations such as Spider Solitaire and FreeCell.
+
+## Features
+- Play directly in your browser (no download required)
+- Multiple solitaire variations
+- Optimized for desktop and mobile devices
+- Supports multiple languages
+
+## Play now
+👉 https://solitaires.com
+
+## About
+Solitaires is designed to provide a simple, fast, and accessible solitaire experience for players worldwide.
