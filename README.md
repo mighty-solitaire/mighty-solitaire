@@ -1,6 +1,6 @@
-# Solitaires
+# Mighty Solitaire
 
-Solitaires is a free browser-based platform for playing classic solitaire games and popular variations such as Spider Solitaire and FreeCell.
+Mighty Solitaire is a free browser-based platform for playing classic solitaire games and popular variations such as Spider Solitaire and FreeCell.
 
 ## Features
 - Play directly in your browser (no download required)
@@ -12,4 +12,4 @@ Solitaires is a free browser-based platform for playing classic solitaire games 
 👉 https://solitaires.com
 
 ## About
-Solitaires is designed to provide a simple, fast, and accessible solitaire experience for players worldwide.
+Mighty Solitaire is designed to provide a simple, fast, and accessible solitaire experience for players worldwide.
